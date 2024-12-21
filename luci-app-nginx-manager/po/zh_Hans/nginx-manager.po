@@ -1,3 +1,11 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: zh_Hans\n"
+"Content-Transfer-Encoding: 8bit\n"
+
 msgid "Nginx Manager"
 msgstr "Nginx管理器"
 
